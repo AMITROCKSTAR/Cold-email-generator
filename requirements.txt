@@ -3,3 +3,5 @@ langchain
 langchain-groq
 openai
 requests
+tiktoken         # Required by OpenAI & LangChain
+python-dotenv    # If you're loading .env files (optional but common)
